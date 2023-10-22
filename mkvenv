@@ -19,6 +19,8 @@ pip install \
     streamlit \
     statsmodels \
     scikit-learn \
+    causalimpact \
+    xgboost \
     prophet \
     nltk \
     svgling
