@@ -1,0 +1,24 @@
+#!/bin/bash
+
+virtualenv --clear --download ~/venv
+
+source ~/venv/bin/activate
+
+pip install \
+    jupyter \
+    isort \
+    black \
+    jupyterlab_code_formatter \
+    theme-darcula \
+    pandas \
+    matplotlib \
+    seaborn \
+    plotnine \
+    plotly \
+    dash \
+    streamlit \
+    statsmodels \
+    scikit-learn \
+    prophet \
+    nltk \
+    svgling
