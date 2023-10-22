@@ -21,6 +21,4 @@ pip install \
     scikit-learn \
     causalimpact \
     xgboost \
-    prophet \
-    nltk \
-    svgling
+    prophet
