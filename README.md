@@ -8,3 +8,4 @@ To update local copies in personal bin folder, run this:
     rm -f mkvenv jupytervenv
     wget https://raw.githubusercontent.com/lab1702/mkvenv/main/mkvenv
     wget https://raw.githubusercontent.com/lab1702/mkvenv/main/jupytervenv
+    chmod +x mkvenv jupytervenv
