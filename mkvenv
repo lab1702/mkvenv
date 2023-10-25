@@ -9,7 +9,6 @@ pip install \
     isort \
     black \
     jupyterlab_code_formatter \
-    theme-darcula \
     pandas \
     matplotlib \
     seaborn \
@@ -19,6 +18,5 @@ pip install \
     streamlit \
     statsmodels \
     scikit-learn \
-    causalimpact \
     xgboost \
     prophet
