@@ -20,4 +20,5 @@ pip install \
     statsmodels \
     scikit-learn \
     xgboost \
-    prophet
+    prophet \
+    tensorflow
