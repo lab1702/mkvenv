@@ -5,6 +5,7 @@ virtualenv --clear --download ~/venv
 source ~/venv/bin/activate
 
 pip install \
+    "python-lsp-server[all]" \
     jupyter \
     isort \
     black \
