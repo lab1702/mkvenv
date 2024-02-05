@@ -21,4 +21,5 @@ pip install \
     scikit-learn \
     xgboost \
     prophet \
-    tensorflow
+    tensorflow \
+    ollama
