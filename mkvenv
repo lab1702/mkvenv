@@ -24,6 +24,7 @@ pip install \
     tensorflow \
     ollama \
     langchain \
+    langchain-community \
     gpt4all \
     chromadb \
     llama-cpp-python \
